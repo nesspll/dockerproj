@@ -1,2 +1,2 @@
-click==*
-pylint==*
+click==7.1.2
+pylint==2.5.3
